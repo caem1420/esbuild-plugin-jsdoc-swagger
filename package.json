@@ -1,0 +1,14 @@
+{
+  "name": "esbuild-plugin-jsdoc-swagger",
+  "version": "1.0.0",
+  "description": "Module to import jsdoc to swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Escobar (caem1420)",
+  "license": "ISC",
+  "dependencies": {
+    "swagger-jsdoc": "^6.2.5"
+  }
+}
